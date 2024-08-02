@@ -1,7 +1,7 @@
 # SQL-Portfolio
 This is my portfolio for SQL projects. 
 
-Guided Projects.
+## Guided Projects.
 
 ## 1.- Walmart guided project. 
 Code With Prince on Youtube: https://youtu.be/Qr1Go2gP8fo?si=fZN5YqvCiLou--nN
